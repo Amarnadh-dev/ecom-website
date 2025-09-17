@@ -2,8 +2,8 @@
 function SignUpp(){
 
 return (
-<h3> New Sign Up Page<h3>
+   <h3> New Sign Up Page</h3>
 )
 
 }
-exp default SignUpp
+export default SignUpp
